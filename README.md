@@ -9,3 +9,8 @@ c) Calculate the average values of South-east of CHINA (20º-40ºN, 100-125ºE)
 
  2. nino3.4 index  
  extract the DJF month from the original data
+ 
+ 3. basic.py
+ some functions dealing with the climatology data including:
+ a) date processing
+ b) calculate the anomalies by removing the annual cycle.
